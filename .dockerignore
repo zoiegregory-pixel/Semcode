@@ -1,6 +1,6 @@
-.git
-.github
-.idea
-.vscode
-*.iml
-.DS_Store
+# This image only needs the packaged application, not source or Git history.
+**
+!Dockerfile
+!.dockerignore
+!target/
+!target/semcode.jar
