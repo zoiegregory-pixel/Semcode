@@ -3,4 +3,4 @@
 !Dockerfile
 !.dockerignore
 !target/
-!target/semcode.jar**
+!target/semcode.jar
