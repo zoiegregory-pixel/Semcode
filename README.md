@@ -1,6 +1,6 @@
 # Semcode
 
-<<< zoiegregory-pixel-patch-1
+zoiegregory-pixel-patch-1
 ## Project Overview
 
 Semcode is a collaborative software development project. This repository provides a central location for the team to manage project files, documentation, and source code.
@@ -95,4 +95,4 @@ reviewed version to `master`. Track tasks as GitHub issues and on the team board
 The Code Review 1 Docker and CI evidence consists of a successful Maven build,
 working application container, and successful GitHub Actions run. The team's
 first release and remaining assessment checklist items are separate tasks.
->>> develop
+develop
