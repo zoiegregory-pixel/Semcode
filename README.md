@@ -1,5 +1,30 @@
 # Semcode
 
+zoiegregory-pixel-patch-1
+## Project Overview
+
+Semcode is a collaborative software development project. This repository provides a central location for the team to manage project files, documentation, and source code.
+
+## Repository Structure
+
+The repository contains project files and documentation used by the development team.
+
+## Branching Strategy
+
+The team uses the following branches to organize development work:
+
+- **master** – Holds the main project code.
+- **develop** – Used for ongoing development and integration.
+- **release** – Used to prepare code for release.
+
+## Team Collaboration
+
+Team members use GitHub to manage changes, track issues, review code, and collaborate on project tasks.
+
+## Documentation Maintenance
+
+This README provides an overview of the repository and its development workflow. It should be updated as the project structure, processes, and requirements change.
+====
 Population reporting coursework for SET09803 DevOps.
 
 ## Build and run
@@ -70,3 +95,4 @@ reviewed version to `master`. Track tasks as GitHub issues and on the team board
 The Code Review 1 Docker and CI evidence consists of a successful Maven build,
 working application container, and successful GitHub Actions run. The team's
 first release and remaining assessment checklist items are separate tasks.
+develop
